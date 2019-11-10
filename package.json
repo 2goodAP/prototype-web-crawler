@@ -1,0 +1,15 @@
+{
+  "name": "Microlearning",
+  "version": "0.1.0",
+  "description": "A microlearning app",
+  "main": "server.js",
+  "author": "2goodAP",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "request": "^2.88.0"
+  }
+}
